@@ -1,2 +1,4 @@
 # AHK-Parkinson
-Funny mouse thing
+**Funny mouse thing**
+
+Stop with <kbd>F4</kbd>.
